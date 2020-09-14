@@ -1,0 +1,11 @@
+C:\DA3A2019\Lab3_DisconnectedMode\Lab3_DisconnectedMode\bin\Debug\Lab3_DisconnectedMode.exe.config
+C:\DA3A2019\Lab3_DisconnectedMode\Lab3_DisconnectedMode\bin\Debug\Lab3_DisconnectedMode.exe
+C:\DA3A2019\Lab3_DisconnectedMode\Lab3_DisconnectedMode\bin\Debug\Lab3_DisconnectedMode.pdb
+C:\DA3A2019\Lab3_DisconnectedMode\Lab3_DisconnectedMode\obj\Debug\Lab3_DisconnectedMode.csprojAssemblyReference.cache
+C:\DA3A2019\Lab3_DisconnectedMode\Lab3_DisconnectedMode\obj\Debug\Lab3_DisconnectedMode.GUI.MainMenuForm.resources
+C:\DA3A2019\Lab3_DisconnectedMode\Lab3_DisconnectedMode\obj\Debug\Lab3_DisconnectedMode.GUI.StudentForm.resources
+C:\DA3A2019\Lab3_DisconnectedMode\Lab3_DisconnectedMode\obj\Debug\Lab3_DisconnectedMode.Properties.Resources.resources
+C:\DA3A2019\Lab3_DisconnectedMode\Lab3_DisconnectedMode\obj\Debug\Lab3_DisconnectedMode.csproj.GenerateResource.cache
+C:\DA3A2019\Lab3_DisconnectedMode\Lab3_DisconnectedMode\obj\Debug\Lab3_DisconnectedMode.csproj.CoreCompileInputs.cache
+C:\DA3A2019\Lab3_DisconnectedMode\Lab3_DisconnectedMode\obj\Debug\Lab3_DisconnectedMode.exe
+C:\DA3A2019\Lab3_DisconnectedMode\Lab3_DisconnectedMode\obj\Debug\Lab3_DisconnectedMode.pdb

@@ -1,0 +1,7 @@
+C:\AEC\sem3\DA3\ProgrammingWithDataSet\ProgrammingWithDataSet\bin\Debug\ProgrammingWithDataSet.exe.config
+C:\AEC\sem3\DA3\ProgrammingWithDataSet\ProgrammingWithDataSet\bin\Debug\ProgrammingWithDataSet.exe
+C:\AEC\sem3\DA3\ProgrammingWithDataSet\ProgrammingWithDataSet\bin\Debug\ProgrammingWithDataSet.pdb
+C:\AEC\sem3\DA3\ProgrammingWithDataSet\ProgrammingWithDataSet\obj\Debug\ProgrammingWithDataSet.csprojAssemblyReference.cache
+C:\AEC\sem3\DA3\ProgrammingWithDataSet\ProgrammingWithDataSet\obj\Debug\ProgrammingWithDataSet.csproj.CoreCompileInputs.cache
+C:\AEC\sem3\DA3\ProgrammingWithDataSet\ProgrammingWithDataSet\obj\Debug\ProgrammingWithDataSet.exe
+C:\AEC\sem3\DA3\ProgrammingWithDataSet\ProgrammingWithDataSet\obj\Debug\ProgrammingWithDataSet.pdb
